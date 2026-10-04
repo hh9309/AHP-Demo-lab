@@ -1,0 +1,6 @@
+{
+  "name": "AHP Lab - 层次分析法决策与仿真实验平台",
+  "description": "集知识导引、层次建模、两两比较矩阵、权重求解与一致性诊断、权重合成、敏感性分析、群体决策、Python代码实验、经典案例与实验报告于一体的专业级层次分析法平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
